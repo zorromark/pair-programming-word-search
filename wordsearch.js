@@ -29,7 +29,7 @@ const wordSearch = (letters, word) => {
     // console.log("vertialjoin: ", verticalJoin);
     // console.log("verticalWord: " + verticalWord);
   }
-  //console.log("returning false");
+ 
   return false;
 };
 
